@@ -1,0 +1,9 @@
+{
+  "name": "Flight Ready — Aviation English",
+  "short_name": "Flight Ready",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1220",
+  "theme_color": "#0A1220",
+  "icons": []
+}
